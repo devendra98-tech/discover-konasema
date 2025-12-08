@@ -1,0 +1,162 @@
+{
+  "common": {
+    "home": "Home",
+    "culture": "Culture",
+    "food": "Food",
+    "places": "Places",
+    "gallery": "Gallery",
+    "about": "About Konaseema",
+    "contact": "Contact",
+    "explore": "Explore",
+    "readMore": "Read More",
+    "watchVideo": "Watch Video",
+    "scrollToExplore": "Scroll to explore"
+  },
+  "home": {
+    "title": "Konaseema Essence",
+    "subtitle": "Coconut Heaven of Andhra",
+    "description": "Discover the pristine beauty, rich culture, and authentic traditions of Konaseema - God's Own Delta",
+    "heroTitle": "Welcome to Konaseema",
+    "heroSubtitle": "Where Godavari Meets the Sea",
+    "quickLinks": {
+      "culture": "Culture",
+      "food": "Cuisine",
+      "places": "Destinations",
+      "art": "Arts & Crafts",
+      "nature": "Nature",
+      "gallery": "Gallery"
+    },
+    "aboutTitle": "About Konaseema",
+    "aboutDescription": "Konaseema, often called the 'Kerala of Andhra Pradesh', is a region blessed with lush coconut groves, serene backwaters, and a unique riverine culture. Nestled in the Godavari delta, it's a paradise for nature lovers and culture enthusiasts.",
+    "cta": "Explore Konaseema"
+  },
+  "culture": {
+    "title": "Culture & Traditions",
+    "subtitle": "The Heart of Konaseema",
+    "riverLife": {
+      "title": "Godavari River Life",
+      "description": "Life in Konaseema revolves around the Godavari River. From boat races to fishing traditions, the river is central to the region's identity."
+    },
+    "boatTraditions": {
+      "title": "Boat Traditions",
+      "description": "Traditional boat making and river navigation are integral parts of Konaseema's heritage."
+    },
+    "coconutPlantations": {
+      "title": "Coconut Plantations",
+      "description": "Vast coconut groves line the delta, providing livelihood and defining the landscape."
+    },
+    "festivals": {
+      "title": "Festivals",
+      "description": "Godavari Pushkaralu and other regional festivals celebrate the river and local traditions."
+    },
+    "villageLife": {
+      "title": "Village Traditions",
+      "description": "Experience authentic village life with traditional customs and community celebrations."
+    }
+  },
+  "food": {
+    "title": "Culinary Delights",
+    "subtitle": "Taste of Konaseema",
+    "pootharekulu": {
+      "name": "Pootharekulu",
+      "description": "Paper-thin sweet from Atreyapuram, made with rice starch and jaggery."
+    },
+    "gongura": {
+      "name": "Gongura",
+      "description": "Tangy sorrel leaves curry, a staple in Andhra cuisine."
+    },
+    "chepaPulusu": {
+      "name": "Chepa Pulusu",
+      "description": "Traditional fish curry with tamarind and spices."
+    },
+    "mangoPickles": {
+      "name": "Mango Pickles",
+      "description": "Spicy and tangy pickles made from raw mangoes."
+    },
+    "riceDishes": {
+      "name": "Rice-based Dishes",
+      "description": "Pulihora, curd rice, and other traditional rice preparations."
+    },
+    "coconutSweets": {
+      "name": "Coconut Sweets",
+      "description": "Delicious sweets made from fresh coconut."
+    },
+    "toddy": {
+      "name": "Toddy Palm Items",
+      "description": "Traditional beverages and dishes from toddy palm."
+    }
+  },
+  "places": {
+    "title": "Must-Visit Places",
+    "subtitle": "Discover Konaseema",
+    "amalapuram": {
+      "name": "Amalapuram",
+      "title": "The Cultural Hub",
+      "description": "A major town in Konaseema known for its temples, markets, and riverfront."
+    },
+    "dindi": {
+      "name": "Dindi Resorts",
+      "title": "Riverside Paradise",
+      "description": "Beautiful resorts along the Godavari offering serene views and boat rides."
+    },
+    "yanam": {
+      "name": "Yanam Coastline",
+      "title": "Coastal Beauty",
+      "description": "Pristine beaches and coastal areas where the Godavari meets the Bay of Bengal."
+    },
+    "papikondalu": {
+      "name": "Papikondalu Gateway",
+      "title": "Nature's Wonder",
+      "description": "Gateway to the famous Papikondalu, known for scenic river cruises."
+    },
+    "atreyapuram": {
+      "name": "Atreyapuram",
+      "title": "Sweet Village",
+      "description": "Famous for Pootharekulu, this village is a must-visit for food lovers."
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Visual Journey",
+    "categories": {
+      "all": "All",
+      "nature": "Nature",
+      "culture": "Culture",
+      "food": "Food",
+      "places": "Places"
+    }
+  },
+  "about": {
+    "title": "About Konaseema",
+    "subtitle": "God's Own Delta",
+    "whyTitle": "Why Konaseema?",
+    "culture": {
+      "title": "Rich Culture",
+      "description": "A unique blend of riverine and coastal traditions."
+    },
+    "nature": {
+      "title": "Natural Beauty",
+      "description": "Lush greenery, backwaters, and pristine landscapes."
+    },
+    "agriculture": {
+      "title": "Agriculture",
+      "description": "Fertile delta lands supporting rice, coconut, and other crops."
+    },
+    "life": {
+      "title": "Way of Life",
+      "description": "Simple, peaceful, and deeply connected to nature."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "placeholderName": "Your name",
+    "placeholderEmail": "your.email@example.com",
+    "placeholderMessage": "Your message..."
+  }
+}
+
