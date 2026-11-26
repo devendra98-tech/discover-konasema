@@ -17,7 +17,7 @@ export default function HomePage() {
     { href: "/gallery", icon: Leaf, key: "home.quickLinks.nature" },
     { href: "/gallery", icon: Images, key: "home.quickLinks.gallery" },
   ];
-
+//pipeline test
   return (
     <>
       <Hero />
